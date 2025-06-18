@@ -1,0 +1,55 @@
+# Blinkit Business Performance Analysis  
+**Power BI Dashboard**
+
+---
+
+## About the Project  
+- Analyzed business performance for Blinkit, India’s leading last-minute delivery app  
+- Created a comprehensive Power BI dashboard tracking sales metrics, outlet performance, and product categories  
+- Evaluated operational efficiency across different outlet types and geographic locations  
+- Identified growth opportunities and optimization strategies to support business expansion  
+ 
+---
+
+## The Problem  
+- **Sales Performance Gap:** Identify top-performing outlets contributing to $1.20M total sales across 8,523 items  
+- **Multi-Tier Location Strategy:** Analyze outlet performance across Tier 1, 2, and 3 cities with establishment years ranging from 2010 to 2020  
+- **Product Portfolio Optimization:** Determine optimal inventory mix across 16+ categories, from high-volume items (fruits: 1.2K) to niche products (seafood: 0.1K)  
+- **Performance Standardization:** Maintain consistent customer satisfaction (4.0 rating) while optimizing average transaction value ($141)  
+
+---
+
+## Key Results  
+- **Revenue Achievement:** Generated $1.20M total sales with a consistent average transaction value of $141  
+- **Top Performing Outlets:** Supermarket Type1 outlets dominated, contributing $787.55K (65.6% of total sales)  
+- **Geographic Performance:** Tier 3 cities led with $472.13K (39.3% of total revenue)  
+- **Product Category Insights:** Fruits and Snack Foods each contributed 1.2K items, driving core revenue  
+
+---
+
+## Access the Dashboard  
+The interactive Power BI dashboard is hosted on Power BI Service. Click below to explore the live report:  
+
+[View Power BI Dashboard](https://app.powerbi.com/reportEmbed?reportId=897c7e72-c5a7-4653-969f-873ede324905&autoAuth=true&ctid=3c71cbab-b5ed-4f3b-ac0d-95509d6c0e93)
+
+---
+
+## Embedding Preview  
+GitHub README files don’t support iframe embedding. Below is a screenshot preview of the dashboard:  
+
+![Dashboard Preview](dashboard-preview.png)
+
+---
+
+## How to Embed Power BI Dashboard on a Website
+
+If embedding the dashboard on your personal website or blog, use this iframe snippet:
+
+```html
+<iframe
+  width="900"
+  height="700"
+  src="https://app.powerbi.com/view?r=your_report_embed_url"
+  frameborder="0"
+  allowFullScreen="true">
+</iframe>
