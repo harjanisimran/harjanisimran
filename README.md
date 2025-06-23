@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Simran Harjani
+#  Hi, I'm Simran Harjani
 
 - Master’s in Business Analytics | University of New Haven
 - Business Analytics Professional with 4+ years experience at global organizations
@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 Technical Skills
+## � Technical Skills
 
 * **Analytics & Data Tools:** Power BI, Tableau, R Studio, SQL, Excel, Python, Microsoft Power Platform
 * **Techniques:** ETL Processes, A/B Testing, KPI Tracking, Predictive Modeling, Statistical Analysis, Data Mining
@@ -16,7 +16,7 @@
 
 ---
 
-## 💼 Business & Leadership Skills
+## Business & Leadership Skills
 
 * Stakeholder Management & Cross-functional Collaboration
 * Customer Needs Analysis & Business Communication
