@@ -29,7 +29,7 @@
 
 * [LinkedIn](https://linkedin.com/in/simranharjani)
 * [Email](mailto:your.email@example.com)
-* [Portfolio Website](https://yourportfolio.com) *(optional)*
+* [Portfolio Website](https://yourportfolio.com) 
 
 ---
 
