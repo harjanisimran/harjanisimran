@@ -36,5 +36,3 @@
 📌 *Always curious, continuously learning, and eager to turn data into decisions.*
 
 ---
-
-Would you like me to help customize the email or portfolio links? Or tailor it more for a specific audience like recruiters or clients?
